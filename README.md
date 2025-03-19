@@ -36,23 +36,23 @@ This project showcases a **Bluetooth-controlled RC car** that can be operated us
 
 ## 📁 Folder Descriptions
 
-### 1️⃣ Body_Design/
+### 1️⃣ [Body_Design/](Body_Design)
 This folder contains the **3D model and images** of the RC car's body design.
 ![Body Design](Body_Design/body_design_1.png)
 ![Body Design](Body_Design/body_design_2.png)
 
-### 2️⃣ Circuit_Diagram/
+### 2️⃣ [Circuit_Diagram/](Circuit_Diagram)
 This folder contains the **wiring and circuit diagram** needed to build the RC car.
 ![Circuit Diagram](Circuit_Diagram/circuit_diagram.png)
 
-### 3️⃣ Android_App/
+### 3️⃣ [Android_App/](Android_App)
 This folder contains the **Android application (Bluetooth RC Car by Andi.Co)** for controlling the car.
 ![App Interface](Android_App/app_interface.jpg)
 
-### 4️⃣ Arduino_Code/
+### 4️⃣ [Arduino_Code/](Arduino_Code/Bluetooth_Controlled_RC_Car)
 This folder includes the **Arduino code** necessary to operate the RC car.
 
-### 5️⃣ Robotics_Basics/
+### 5️⃣ [Robotics_Basics/](Robotics_Basics)
 This folder contains an **introductory slide** on robotics basics.
 
 ---
@@ -90,5 +90,5 @@ This folder contains an **introductory slide** on robotics basics.
 ---
 
 ## ❤️ Acknowledgments
-- **Bluetooth RC Car App**: Developed by [Andi.Co](https://play.google.com/store/apps/dev?id=XXXXXXXX).
+- **Bluetooth RC Car App**: Developed by Andi co.
 - Inspired by open-source Arduino projects.
