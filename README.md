@@ -1,5 +1,5 @@
 # Bluetooth-Controlled RC Car
-
+### Powered by NSU Intelligent Robotics (NIRO) Lab
 Welcome to the **Bluetooth-Controlled RC Car** repository! This project contains all the necessary resources to build and operate an RC car using an Arduino-based system and a Bluetooth Android app.
 
 ## 📂 Repository Structure
