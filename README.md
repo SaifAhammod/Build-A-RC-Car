@@ -47,7 +47,7 @@ This folder contains the **wiring and circuit diagram** needed to build the RC c
 
 ### 3️⃣ Android_App/
 This folder contains the **Android application (Bluetooth RC Car by Andi.Co)** for controlling the car.
-![App Interface](Android_App/app_interface.png)
+![App Interface](Android_App/app_interface.jpg)
 
 ### 4️⃣ Arduino_Code/
 This folder includes the **Arduino code** necessary to operate the RC car.
