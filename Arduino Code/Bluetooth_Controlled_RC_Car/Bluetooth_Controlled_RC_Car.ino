@@ -2,10 +2,12 @@
 #define ENA 10  // Enable pin for Motor 1
 #define IN1 9  // Motor 1 control pin 1
 #define IN2 8  // Motor 1 control pin 2
+
 // Motor 2
 #define IN3 7  // Motor 2 control pin 1
 #define IN4 6  // Motor 2 control pin 2
 #define ENB 5 // Enable pin for Motor 2
+
 char command;
 
 void setup() {
